@@ -1,6 +1,7 @@
 # softexFunctionCalculadora
 
-#QUESTÃO 
+#QUESTÃO:
+
 Crie um programa que contenha os seguintes tipos de funções:
 
 1. Uma função tradicional com a palavra reservada "Function" e sem nenhum parâmetro;
